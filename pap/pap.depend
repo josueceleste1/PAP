@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556134245 source:c:\programas\pap\main.cpp
+	<iostream>
+	"catraca.h"
+
+1556134067 c:\programas\pap\catraca.h
+	<list>
+
